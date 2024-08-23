@@ -1,10 +1,10 @@
-package com.it.reservation;
+package com.bs.family.games;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReservationApplicationTests {
+class GamesApplicationTests {
 
 	@Test
 	void contextLoads() {
